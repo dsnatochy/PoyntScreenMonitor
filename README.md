@@ -3,7 +3,8 @@
 ## Prerequisites
 1. Java 1.7
 2. Android SDK with ADB 
-3. Terminal in Developer mode to allow connections over ADB
+3. Configure your OS to be able to "see" Poynt: https://poynt.github.io/developer/tut/developer-mode.html
+4. Terminal in Developer mode to allow connections over ADB
 
 ## Steps
 1. Connect your laptop/PC to the terminal over micro-USB cable
