@@ -3,7 +3,7 @@
 ## Prerequisites
 1. Java 1.7
 2. Android SDK (which has ADB tool)  
-3. You shoujld be able to see terminal's serial number if you run `adb devices` on the command line. If don't, follow instructions on https://poynt.github.io/developer/tut/developer-mode.html to make sure you install the correct driver.
+3. Unlocked (i.e. develoeper mode) termina. You should be able to see terminal's serial number if you run `adb devices` on the command line. If don't, follow instructions on https://poynt.github.io/developer/tut/developer-mode.html to make sure you install the correct driver.
 
 ## Steps
 1. Connect your laptop/PC to the terminal over micro-USB cable
